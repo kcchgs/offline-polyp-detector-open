@@ -1,0 +1,498 @@
+[
+  {
+    "key": "Byrne2019",
+    "title": "Real-time differentiation of adenomatous and hyperplastic diminutive colorectal polyps during analysis of unaltered videos of standard colonoscopy using a deep learning model",
+    "authors": [
+      "Byrne, Michael F",
+      "Chapados, Nicolas",
+      "Soudan, Florian",
+      "Oertel, Clemens",
+      "Linares Pérez, Milagros",
+      "Kelly, Raymond",
+      "Iqbal, Nadeem",
+      "Chandelier, Florent",
+      "Rex, Douglas K"
+    ],
+    "journal": "Gut",
+    "year": "2019",
+    "doi": "10.1136/gutjnl-2017-314547",
+    "pmid": "29066576",
+    "pmcid": "PMC6839831",
+    "url": "https://doi.org/10.1136/gutjnl-2017-314547"
+  },
+  {
+    "key": "LiuFEQ2022",
+    "title": "Artificial intelligence-based assessments of colonoscopic withdrawal technique: a new method for measuring and enhancing the quality of fold examination",
+    "authors": [
+      "Liu, Wei",
+      "Wu, Yu",
+      "Yuan, Xianglei",
+      "Zhang, Jingyu",
+      "Zhou, Yao",
+      "Zhang, Wanhong",
+      "Zhu, Peipei",
+      "Tao, Zhang",
+      "He, Long",
+      "Hu, Bing",
+      "Yi, Zhang"
+    ],
+    "journal": "Endoscopy",
+    "year": "2022",
+    "doi": "10.1055/a-1799-8297",
+    "pmid": "35391493",
+    "pmcid": "PMC9500011",
+    "url": "https://doi.org/10.1055/a-1799-8297"
+  },
+  {
+    "key": "FalsePositive2024",
+    "title": "A prospective comparison of two computer aided detection systems with different false positive rates in colonoscopy",
+    "authors": [
+      "Chung, Goh Eun",
+      "Lee, Jooyoung",
+      "Lim, Seon Hee",
+      "Kang, Hae Yeon",
+      "Kim, Jung",
+      "Song, Ji Hyun",
+      "Yang, Sun Young",
+      "Choi, Ji Min",
+      "Seo, Ji Yeon",
+      "Bae, Jung Ho"
+    ],
+    "journal": "NPJ Digital Medicine",
+    "year": "2024",
+    "doi": "10.1038/s41746-024-01334-y",
+    "pmid": "39702474",
+    "pmcid": "PMC11659580",
+    "url": "https://doi.org/10.1038/s41746-024-01334-y"
+  },
+  {
+    "key": "POLAR2023",
+    "title": "Computer-aided diagnosis for optical diagnosis of diminutive colorectal polyps including sessile serrated lesions: a real-time comparison with screening endoscopists",
+    "authors": [
+      "Houwen, Britt B. S. L.",
+      "Hazewinkel, Yark",
+      "Giotis, Ioannis",
+      "Vleugels, Jasper L. A.",
+      "Mostafavi, Nahid S.",
+      "van Putten, Paul",
+      "Fockens, Paul",
+      "Dekker, Evelien"
+    ],
+    "journal": "Endoscopy",
+    "year": "2023",
+    "doi": "10.1055/a-2009-3990",
+    "pmid": "36623839",
+    "pmcid": "PMC10374350",
+    "url": "https://doi.org/10.1055/a-2009-3990"
+  },
+  {
+    "key": "Pedersen2026",
+    "title": "Learning and deskilling effects of artificial intelligence in colonoscopy among endoscopists with different levels of experience: a pragmatic, prospective trial",
+    "authors": [
+      "Pedersen, Tom Andre",
+      "Mori, Yuichi",
+      "Botteri, Edoardo",
+      "Engjom, Trond",
+      "Seip, Birgitte",
+      "Dimcevski, Georg Gjorgji",
+      "Havre, Roald Flesland"
+    ],
+    "journal": "Endoscopy",
+    "year": "2026",
+    "doi": "10.1055/a-2858-7084",
+    "pmid": "42235541",
+    "pmcid": "PMC13552228",
+    "url": "https://doi.org/10.1055/a-2858-7084"
+  },
+  {
+    "key": "DeCarvalho2023",
+    "title": "Automated colonoscopy withdrawal phase duration estimation using cecum detection and surgical tasks classification",
+    "authors": [
+      "De Carvalho, Thomas",
+      "Kader, Rawen",
+      "Brandao, Patrick",
+      "González-Bueno Puyal, Juana",
+      "Lovat, Laurence B.",
+      "Mountney, Peter",
+      "Stoyanov, Danail"
+    ],
+    "journal": "Biomedical Optics Express",
+    "year": "2023",
+    "doi": "10.1364/BOE.485069",
+    "pmid": "37342682",
+    "pmcid": "PMC10278633",
+    "url": "https://doi.org/10.1364/BOE.485069"
+  },
+  {
+    "key": "QAMaster2025",
+    "title": "An artificial intelligence system for qualified mucosal observation time during colonoscopic withdrawal",
+    "authors": [
+      "Li, Wu-Jun",
+      "Yan, Peng",
+      "Ni, Muhan",
+      "Zhou, Jin-Dong",
+      "Zhou, Lin",
+      "Zhang, Xiang",
+      "Zhang, Zhenyu",
+      "Gao, Ningjing",
+      "Ji, Zhanwen",
+      "Zhuang, Duanming",
+      "Zhu, Hao",
+      "Chen, Min",
+      "Xu, Guifang",
+      "Zou, Xiaoping",
+      "Peng, Chunyan",
+      "Tang, Dehua",
+      "Wang, Lei"
+    ],
+    "journal": "NPJ Digital Medicine",
+    "year": "2025",
+    "doi": "10.1038/s41746-025-02067-2",
+    "pmid": "41254127",
+    "pmcid": "PMC12627440",
+    "url": "https://doi.org/10.1038/s41746-025-02067-2"
+  },
+  {
+    "key": "WASP2021",
+    "title": "The Workgroup Serrated Polyps and Polyposis (WASP) classification for optical diagnosis of colorectal diminutive polyps with iScan and the impact of the revised World Health Organization (WHO) criteria",
+    "authors": [
+      "Soons, Elsa",
+      "Bisseling, Tanya M.",
+      "van der Post, Rachel S.",
+      "Nagtegaal, Iris D.",
+      "Hazewinkel, Yark",
+      "van Kouwen, Mariette C. A.",
+      "Siersema, Peter D."
+    ],
+    "journal": "United European Gastroenterology Journal",
+    "year": "2021",
+    "doi": "10.1002/ueg2.12129",
+    "pmid": "34478243",
+    "pmcid": "PMC8435252",
+    "url": "https://doi.org/10.1002/ueg2.12129"
+  },
+  {
+    "key": "WEISS2023",
+    "title": "Polyp characterization using deep learning and a publicly accessible polyp video database",
+    "authors": [
+      "Kader, Rawen",
+      "Cid‐Mejias, Anton",
+      "Brandao, Patrick",
+      "Islam, Shahraz",
+      "Hebbar, Sanjith",
+      "Puyal, Juana González‐Bueno",
+      "Ahmad, Omer F",
+      "Hussein, Mohamed",
+      "Toth, Daniel",
+      "Mountney, Peter",
+      "Seward, Ed",
+      "Vega, Roser",
+      "Stoyanov, Danail",
+      "Lovat, Laurence B"
+    ],
+    "journal": "Digestive Endoscopy",
+    "year": "2023",
+    "doi": "10.1111/den.14500",
+    "pmid": "36527309",
+    "pmcid": "PMC10570984",
+    "url": "https://doi.org/10.1111/den.14500"
+  },
+  {
+    "key": "Rex2011PIVI",
+    "title": "The American Society for Gastrointestinal Endoscopy PIVI (Preservation and Incorporation of Valuable Endoscopic Innovations) on real-time endoscopic assessment of the histology of diminutive colorectal polyps",
+    "authors_bibtex": "Rex, Douglas K. and others",
+    "journal": "Gastrointestinal Endoscopy",
+    "year": "2011",
+    "doi": "10.1016/j.gie.2011.01.023",
+    "pmid": "21353837",
+    "url": "https://doi.org/10.1016/j.gie.2011.01.023"
+  },
+  {
+    "key": "Hewett2012NICE",
+    "title": "Validation of a simple classification system for endoscopic diagnosis of small colorectal polyps using narrow-band imaging",
+    "authors_bibtex": "Hewett, David G. and Kaltenbach, Tonya and Sano, Yasushi and Tanaka, Shinji and Saunders, Brian P. and Ponchon, Thierry and Soetikno, Roy and Rex, Douglas K.",
+    "journal": "Gastroenterology",
+    "year": "2012",
+    "doi": "10.1053/j.gastro.2012.05.006",
+    "pmid": "22609383",
+    "url": "https://doi.org/10.1053/j.gastro.2012.05.006"
+  },
+  {
+    "key": "Sano2016JNET",
+    "title": "Narrow-band imaging (NBI) magnifying endoscopic classification of colorectal tumors proposed by the Japan NBI Expert Team",
+    "authors_bibtex": "Sano, Yasushi and others",
+    "journal": "Digestive Endoscopy",
+    "year": "2016",
+    "doi": "10.1111/den.12644",
+    "pmid": "26927367",
+    "url": "https://doi.org/10.1111/den.12644"
+  },
+  {
+    "key": "IJspeert2016WASP",
+    "title": "Development and validation of the WASP classification system for optical diagnosis of adenomas, hyperplastic polyps and sessile serrated adenomas/polyps",
+    "authors_bibtex": "IJspeert, Joep E. G. and others",
+    "journal": "Gut",
+    "year": "2016",
+    "doi": "10.1136/gutjnl-2014-308411",
+    "pmid": "25753029",
+    "url": "https://doi.org/10.1136/gutjnl-2014-308411"
+  },
+  {
+    "key": "Mori2018",
+    "title": "Real-Time Use of Artificial Intelligence in Identification of Diminutive Polyps During Colonoscopy: A Prospective Study",
+    "authors_bibtex": "Mori, Yuichi and others",
+    "journal": "Annals of Internal Medicine",
+    "year": "2018",
+    "doi": "10.7326/M18-0249",
+    "pmid": "30105375",
+    "url": "https://doi.org/10.7326/M18-0249"
+  },
+  {
+    "key": "Gong2020ENDOANGEL",
+    "title": "Detection of colorectal adenomas with a real-time computer-aided system (ENDOANGEL): a randomised controlled study",
+    "authors_bibtex": "Gong, Dexin and others",
+    "journal": "The Lancet Gastroenterology & Hepatology",
+    "year": "2020",
+    "doi": "10.1016/S2468-1253(19)30413-3",
+    "pmid": "31981518",
+    "url": "https://doi.org/10.1016/S2468-1253(19)30413-3"
+  },
+  {
+    "key": "Yao2022CAQ",
+    "title": "Effect of an artificial intelligence-based quality improvement system on efficacy of a computer-aided detection system in colonoscopy: a four-group parallel study",
+    "authors_bibtex": "Yao, Liwen and others",
+    "journal": "Endoscopy",
+    "year": "2022",
+    "doi": "10.1055/a-1706-6174",
+    "pmid": "34823258",
+    "url": "https://doi.org/10.1055/a-1706-6174"
+  },
+  {
+    "key": "Barua2023Speedometer",
+    "title": "Speedometer for withdrawal time monitoring during colonoscopy: a clinical implementation trial",
+    "authors_bibtex": "Barua, Ishita and others",
+    "journal": "Scandinavian Journal of Gastroenterology",
+    "year": "2023",
+    "doi": "10.1080/00365521.2022.2154616",
+    "pmid": "36519564",
+    "url": "https://doi.org/10.1080/00365521.2022.2154616"
+  },
+  {
+    "key": "Lee2011Technique",
+    "title": "Quality of colonoscopy withdrawal technique and variability in adenoma detection rates (with videos)",
+    "authors_bibtex": "Lee, Robert H. and others",
+    "journal": "Gastrointestinal Endoscopy",
+    "year": "2011",
+    "doi": "10.1016/j.gie.2011.03.003",
+    "pmid": "21531410",
+    "url": "https://doi.org/10.1016/j.gie.2011.03.003"
+  },
+  {
+    "key": "Zhao2022Withdrawal",
+    "title": "Impact of 9-Minute Withdrawal Time on the Adenoma Detection Rate: A Multicenter Randomized Controlled Trial",
+    "authors_bibtex": "Zhao, Shengbing and others",
+    "journal": "Clinical Gastroenterology and Hepatology",
+    "year": "2022",
+    "doi": "10.1016/j.cgh.2020.11.019",
+    "pmid": "33220526",
+    "url": "https://doi.org/10.1016/j.cgh.2020.11.019"
+  },
+  {
+    "key": "Liu2013OpticalFlow",
+    "title": "An optical flow approach to tracking colonoscopy video",
+    "authors_bibtex": "Liu, Jianfei and Subramanian, Kalpathi R. and Yoo, Terry S.",
+    "journal": "Computerized Medical Imaging and Graphics",
+    "year": "2013",
+    "doi": "10.1016/j.compmedimag.2013.01.010",
+    "pmid": "23490235",
+    "url": "https://doi.org/10.1016/j.compmedimag.2013.01.010"
+  },
+  {
+    "key": "vanBerkel2021",
+    "title": "Designing Visual Markers for Continuous Artificial Intelligence Support: A Colonoscopy Case Study",
+    "authors_bibtex": "{van Berkel}, Niels and Ahmad, Omer F. and Stoyanov, Danail and Lovat, Laurence and Blandford, Ann",
+    "journal": "ACM Transactions on Computing for Healthcare",
+    "year": "2021",
+    "doi": "10.1145/3422156",
+    "url": "https://doi.org/10.1145/3422156"
+  },
+  {
+    "key": "Budzyn2025",
+    "title": "Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study",
+    "authors_bibtex": "Budzyń, Krzysztof and others",
+    "journal": "The Lancet Gastroenterology & Hepatology",
+    "year": "2025",
+    "doi": "10.1016/S2468-1253(25)00133-5",
+    "pmid": "40816301",
+    "url": "https://doi.org/10.1016/S2468-1253(25)00133-5"
+  },
+  {
+    "key": "Budzyn2025Correction",
+    "title": "Correction to Lancet Gastroenterol Hepatol 2025; 10: 896–903",
+    "authors_bibtex": "",
+    "journal": "The Lancet Gastroenterology & Hepatology",
+    "year": "2025",
+    "doi": "10.1016/S2468-1253(25)00294-8",
+    "url": "https://doi.org/10.1016/S2468-1253(25)00294-8"
+  },
+  {
+    "key": "ESGE2022SODA",
+    "title": "Definition of competence standards for optical diagnosis of diminutive colorectal polyps: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement",
+    "authors_bibtex": "Houwen, Britt B. S. L. and others",
+    "journal": "Endoscopy",
+    "year": "2022",
+    "doi": "10.1055/a-1689-5130",
+    "pmid": "34872120",
+    "url": "https://doi.org/10.1055/a-1689-5130"
+  },
+  {
+    "key": "Rex2024Quality",
+    "title": "Quality indicators for colonoscopy",
+    "authors_bibtex": "Rex, Douglas K. and Anderson, Joseph C. and Butterly, Lynn F. and others",
+    "journal": "Gastrointestinal Endoscopy",
+    "year": "2024",
+    "doi": "10.1016/j.gie.2024.04.2905",
+    "pmid": "39177519",
+    "url": "https://doi.org/10.1016/j.gie.2024.04.2905"
+  },
+  {
+    "key": "SanchezPeralta2020PICCOLO",
+    "title": "PICCOLO White-Light and Narrow-Band Imaging Colonoscopic Dataset: A Performance Comparative of Models and Datasets",
+    "authors_bibtex": "Sánchez-Peralta, Luisa F. and Pagador, J. Blas and Picón, Artzai and Calderón, Ángel José and Polo, Francisco and Andraka, Nagore and Bilbao, Roberto and Glover, Ben and Saratxaga, Cristina L. and Sánchez-Margallo, Francisco M.",
+    "journal": "Applied Sciences",
+    "year": "2020",
+    "doi": "10.3390/app10238501",
+    "url": "https://doi.org/10.3390/app10238501"
+  },
+  {
+    "key": "Antonelli2025PRACTICE",
+    "title": "Safety of artificial intelligence-assisted optical diagnosis for leaving colorectal polyps in situ during colonoscopy (PRACTICE): a non-inferiority, randomised controlled trial",
+    "authors_bibtex": "Antonelli, Giulio and others",
+    "journal": "The Lancet Gastroenterology & Hepatology",
+    "year": "2025",
+    "doi": "10.1016/S2468-1253(25)00140-2",
+    "pmid": "40914178",
+    "url": "https://doi.org/10.1016/S2468-1253(25)00140-2"
+  },
+  {
+    "key": "Kim2025",
+    "title": "Smartphone-based polyp detection: a first step towards an open-source AI framework",
+    "authors": [
+      "Kim, Yong Bae"
+    ],
+    "venue": "Journal of Medical Artificial Intelligence",
+    "year": 2025,
+    "volume": "8",
+    "pages": "49",
+    "doi": "10.21037/jmai-24-310",
+    "url": "https://jmai.amegroups.org/article/view/9824/html"
+  },
+  {
+    "key": "DepthPolyp2026",
+    "title": "DepthPolyp: Pseudo-Depth Guided Lightweight Segmentation for Real-Time Colonoscopy",
+    "authors": [
+      "Wu, Zhuoyu and Ou, Wenhui and Zhang, Lexi and Tan, Pei-Sze and Wu, Dongjun and Zhao, Junhe and Fang, Wenqi and Phan, Raphael C.-W."
+    ],
+    "venue": "arXiv; accepted ICPR 2026 per arXiv record",
+    "year": 2026,
+    "doi": "10.48550/arXiv.2605.16519",
+    "url": "https://arxiv.org/abs/2605.16519"
+  },
+  {
+    "key": "BlazeNeo2022",
+    "title": "BlazeNeo: Blazing Fast Polyp Segmentation and Neoplasm Detection",
+    "authors": [
+      "An, Nguyen Sy and Lan, Phan Ngoc and Hang, Dao Viet and Long, Dao Van and Trung, Tran Quang and Thuy, Nguyen Thi and Sang, Dinh Viet"
+    ],
+    "venue": "IEEE Access",
+    "year": 2022,
+    "volume": "10",
+    "pages": "43669-43684",
+    "doi": "10.1109/ACCESS.2022.3168693",
+    "url": "https://arxiv.org/abs/2203.00129"
+  },
+  {
+    "key": "MobilePolypNet2022",
+    "title": "Mobile-PolypNet: Lightweight Colon Polyp Segmentation Network for Low-Resource Settings",
+    "authors": [
+      "Karmakar, Ranit and Nooshabadi, Saeid"
+    ],
+    "venue": "Journal of Imaging",
+    "year": 2022,
+    "volume": "8",
+    "issue": "6",
+    "pages": "169",
+    "doi": "10.3390/jimaging8060169",
+    "pmid": "35735968",
+    "pmcid": "PMC9225047",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9225047/"
+  },
+  {
+    "key": "HarDNetMSEG2021",
+    "title": "HarDNet-MSEG: A Simple Encoder-Decoder Polyp Segmentation Neural Network that Achieves over 0.9 Mean Dice and 86 FPS",
+    "authors": [
+      "Huang, Chien-Hsiang and Wu, Hung-Yu and Lin, Youn-Long"
+    ],
+    "venue": "arXiv",
+    "year": 2021,
+    "doi": "10.48550/arXiv.2101.07172",
+    "url": "https://arxiv.org/abs/2101.07172"
+  },
+  {
+    "key": "YOLOX2021",
+    "title": "YOLOX: Exceeding YOLO Series in 2021",
+    "authors": [
+      "Ge, Zheng and Liu, Songtao and Wang, Feng and Li, Zeming and Sun, Jian"
+    ],
+    "venue": "arXiv",
+    "year": 2021,
+    "doi": "10.48550/arXiv.2107.08430",
+    "url": "https://arxiv.org/abs/2107.08430"
+  },
+  {
+    "key": "Misawa2018",
+    "title": "Artificial Intelligence-Assisted Polyp Detection for Colonoscopy: Initial Experience",
+    "authors": [
+      "Misawa, Masashi and Kudo, Shin-Ei and Mori, Yuichi and others"
+    ],
+    "venue": "Gastroenterology",
+    "year": 2018,
+    "volume": "154",
+    "issue": "8",
+    "pages": "2027-2029.e3",
+    "doi": "10.1053/j.gastro.2018.04.003",
+    "pmid": "29653147",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29653147/"
+  },
+  {
+    "key": "PolypAlert2015",
+    "title": "Polyp-Alert: near real-time feedback during colonoscopy",
+    "authors": [
+      "Wang, Yi and Tavanapong, Wallapak and Wong, Johnny and Oh, Jung Hwan and de Groen, Piet C."
+    ],
+    "venue": "Computer Methods and Programs in Biomedicine",
+    "year": 2015,
+    "volume": "120",
+    "issue": "3",
+    "pages": "164-179",
+    "doi": "10.1016/j.cmpb.2015.04.002",
+    "pmid": "25952076",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25952076/"
+  },
+  {
+    "key": "Chino2024",
+    "title": "Performance evaluation of a computer-aided polyp detection system with artificial intelligence for colonoscopy",
+    "authors": [
+      "Chino, Akiko and Ide, Daisuke and Abe, Seiichiro and others"
+    ],
+    "venue": "Digestive Endoscopy",
+    "year": 2024,
+    "online_year": 2023,
+    "volume": "36",
+    "issue": "2",
+    "pages": "185-194",
+    "doi": "10.1111/den.14578",
+    "pmid": "37099623",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37099623/"
+  }
+]

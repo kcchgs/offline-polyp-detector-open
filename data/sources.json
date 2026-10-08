@@ -1,0 +1,417 @@
+[
+  {
+    "source_id": "S001",
+    "url": "https://datasets.simula.no/kvasir/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S002",
+    "url": "https://www.kaggle.com/plhalvorsen/kvasir-v2-a-gastrointestinal-tract-dataset/metadata",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S003",
+    "url": "https://doi.org/10.1145/3083187.3083212",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S004",
+    "url": "https://doras.dcu.ie/21821/1/Pogorelov_et_al._2017.pdf",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S005",
+    "url": "https://datasets.simula.no/kvasir-seg/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S006",
+    "url": "https://github.com/DebeshJha/Kvasir-SEG",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S007",
+    "url": "https://doi.org/10.1007/978-3-030-37734-2_37",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S008",
+    "url": "https://arxiv.org/abs/1911.07069",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S009",
+    "url": "https://www.mdpi.com/2076-3417/10/23/8501",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S010",
+    "url": "https://datasets.simula.no/hyper-kvasir/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S011",
+    "url": "https://osf.io/mh9sj/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S012",
+    "url": "https://github.com/simula/hyper-kvasir",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S013",
+    "url": "https://github.com/simula/hyper-kvasir/blob/master/hyper-kvasir-image-metadata.csv",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S014",
+    "url": "https://www.nature.com/articles/s41597-020-00622-y",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S015",
+    "url": "https://web-backend.simula.no/sites/default/files/publications/files/nature_scientific_data_hyper_kvasir_revision.pdf",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S016",
+    "url": "https://polyp.grand-challenge.org/CVCClinicDB/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S017",
+    "url": "https://pages.cvc.uab.es/CVC-Colon/index.php/databases/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S018",
+    "url": "https://doi.org/10.1016/j.compmedimag.2015.02.007",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S019",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5549472/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S020",
+    "url": "https://diposit.ub.edu/bitstreams/810b12b7-175b-4ca8-9704-16f244ca8f4b/download",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S021",
+    "url": "https://pages.cvc.uab.es/CVC-Colon/index.php/databases/cvc-endoscenestill/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S022",
+    "url": "http://mv.cvc.uab.es/projects/colon-qa/cvccolondb",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S023",
+    "url": "https://doi.org/10.1016/j.patcog.2012.03.002",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S024",
+    "url": "https://doi.org/10.1155/2017/4037190",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S025",
+    "url": "https://github.com/DengPingFan/PraNet",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S026",
+    "url": "https://pages.cvc.uab.es/ai4polypnet/wp-content/uploads/2024/05/AgreementData_CVC-1.pdf",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S027",
+    "url": "https://polyp.grand-challenge.org/ETISLarib/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S028",
+    "url": "https://doi.org/10.1007/s11548-013-0926-3",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S029",
+    "url": "https://github.com/dashishi/LDPolypVideo-Benchmark",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S030",
+    "url": "https://doi.org/10.1007/978-3-030-87240-3_37",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S031",
+    "url": "https://miccai2021.org/openaccess/paperlinks/2021/09/01/268-Paper1167.html",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S032",
+    "url": "https://github.com/cosmoimd/real-colon-dataset",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S033",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11127922/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S034",
+    "url": "https://doi.org/10.25452/figshare.plus.22202866",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S035",
+    "url": "https://api.figshare.com/v2/articles/22202866",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S036",
+    "url": "https://arxiv.org/abs/2502.03430",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S037",
+    "url": "https://github.com/cosmoimd/temporal_segmentation",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S038",
+    "url": "https://doi.org/10.6084/m9.figshare.26472913",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S039",
+    "url": "https://api.figshare.com/v2/articles/26472913",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S040",
+    "url": "https://www.nature.com/articles/s41597-023-01981-y",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S041",
+    "url": "https://github.com/DebeshJha/PolypGen",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S042",
+    "url": "https://www.synapse.org/#!Synapse:syn45200214",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S043",
+    "url": "https://doi.org/10.1016/j.gie.2020.07.060",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S044",
+    "url": "http://amed8k.sundatabase.org/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S045",
+    "url": "https://github.com/GewelsJI/VPS",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S046",
+    "url": "https://github.com/GewelsJI/VPS/blob/main/docs/DATA_DESCRIPTION.md",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S047",
+    "url": "https://doi.org/10.1007/s11633-022-1371-y",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S048",
+    "url": "https://doi.org/10.1038/s41597-025-05588-3",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S049",
+    "url": "https://doi.org/10.6084/m9.figshare.28287929",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S050",
+    "url": "https://api.figshare.com/v2/articles/28287929",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S051",
+    "url": "https://github.com/krystal21/CAS-Colon",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S052",
+    "url": "https://doi.org/10.1038/s41597-026-07060-2",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S053",
+    "url": "https://www.synapse.org/InfoColon",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S054",
+    "url": "https://github.com/Choi-Tae-min/InfoColon",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S055",
+    "url": "https://datasets.simula.no/nerthus/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S056",
+    "url": "https://doi.org/10.1038/s41597-023-02564-7",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S057",
+    "url": "https://doi.org/10.7303/syn26707219",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S058",
+    "url": "https://arxiv.org/abs/2412.16078",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S059",
+    "url": "https://arxiv.org/abs/2409.00045",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S060",
+    "url": "https://github.com/DebeshJha/PolypDB",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S061",
+    "url": "https://osf.io/pr7ms/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S062",
+    "url": "https://arxiv.org/abs/2403.00663",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S063",
+    "url": "https://bivl2ab.uis.edu.co/challenges/colon",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S064",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10278633/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S065",
+    "url": "https://www.piccolo-project.eu/contentfiles/publications/applsci-10-08501-v3.pdf",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S066",
+    "url": "https://zenodo.org/records/4279017",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S067",
+    "url": "https://www.biobancovasco.bioef.eus/en/Sample-and-data-e-catalog/Databases/PD178-PICCOLO-EN1.html",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S068",
+    "url": "https://www.amc.nl/web/polar-database.htm",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S069",
+    "url": "https://www.thieme-connect.com/products/ejournals/pdf/10.1055/a-2009-3990.pdf",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S070",
+    "url": "https://encov.ip.uca.fr/publications/pubfiles/2016_Mesejo_etal_TMI_colonoscopy.pdf",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S071",
+    "url": "https://www.depeca.uah.es/colonoscopy_dataset/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S072",
+    "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1417862/full",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S073",
+    "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1798432/full",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S074",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255809",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S075",
+    "url": "https://doi.org/10.7910/DVN/FCBUOR",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S076",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0169260726000830",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S077",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41863886/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S078",
+    "url": "https://polydeep.org/software.html",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S079",
+    "url": "https://knowledge.lancashire.ac.uk/id/eprint/17023/2/17023%20Final%20Version.pdf",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S080",
+    "url": "https://mayoclinic.elsevierpure.com/en/publications/automated-polyp-detection-in-colonoscopy-videos-using-shape-and-c/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S081",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7035135/",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S082",
+    "url": "https://doi.org/10.1055/a-1035-9088",
+    "checked_date": "2026-10-07"
+  },
+  {
+    "source_id": "S083",
+    "url": "https://www.nature.com/articles/s41597-021-00920-z",
+    "checked_date": "2026-10-07"
+  }
+]
